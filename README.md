@@ -1,2 +1,1 @@
-# PrepCourse-Henry1
-aprendiendo modulo 2
+este proyento es una prueba para probar como crear un repositorio en github
